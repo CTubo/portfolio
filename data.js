@@ -51,7 +51,7 @@ const PROJECTS = [
     blurb: 'Full-stack vacation rental marketplace. Property search, filter & availability calendar, host dashboard, PayPal Live checkout, guest reviews, Supabase Storage for images, email confirmations via Resend.',
     tech: ['React', 'Vite', 'Supabase', 'PayPal', 'Resend', 'Tailwind'],
     deployedAt: 'Vercel',
-    // url: 'https://your-stayblink-url.vercel.app',   ← add your Vercel URL
+    url: 'https://stayblink.vercel.app',
     accent: 'map-pin',
   },
 
